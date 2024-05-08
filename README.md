@@ -1,6 +1,6 @@
 # 🏄‍♂️ Anthony M
 
-**`Digital Craftsman (CSE PhD Student @ Umich / AI Researcher / Software Engineer)`**
+**`Computer Connoisseur (CSE PhD Student @ Umich | AI/ML Researcher | Software Engineer)`**
 
 I am a passionate, high-achieving Computer Science student in the CSE Doctoral program @ Umich.
 
