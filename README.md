@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">Passionate CSE Student @ Umich | Software Engineer | AI/ML Researcher</h3>
+# 🏄‍♂️ Anthony M
 
-- 👨‍💻 All of my projects are available at [https://www-personal.umd.umich.edu/~larnell/](https://www-personal.umd.umich.edu/~larnell/)
+**`Digital Craftsman (CSE PhD Student @ Umich / AI Researcher / Software Engineer)`**
 
-- 📫 How to reach me? **Message me on my LinkedIn :)**
+I am a passionate, high-achieving Computer Science student in the CSE Doctoral program @ Umich.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rPE0T_9Sgd9AahdabRnq2dE5akb_5oLw/view](https://drive.google.com/file/d/1rPE0T_9Sgd9AahdabRnq2dE5akb_5oLw/view)
+My primary research interests are Natural Language Processing, Deep Learning, and Machine Learning. I aspire to become a skilled applied AI/ML researcher.
+
+Previously, I received my Bachelor of Science with high honors in Computer Science from the University of Michigan-Dearborn.
+
+I chose this field of study since I have always been mesmerized by the thought of working on cutting-edge technology that could improve our society. My goal is to be at the forefront of innovation.
+
+I strive for greatness, and I am always in pursuit of self-improvement!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
