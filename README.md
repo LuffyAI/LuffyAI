@@ -18,5 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binarybills&show_icons=true&locale=en&layout=compact" alt="binarybills" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binarybills&show_icons=true&locale=en" alt="binarybills" /></p>
 
