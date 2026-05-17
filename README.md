@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/LuffyAI/LuffyAI/main/umich_luffy_ai.png" width="100%" />
 </p>
 
-# 🏄‍♂️ Larnell Moore
+# 👋 Hey, what's up? My name is Larnell Moore! 😎
 
-**`Computer Connoisseur (CSE PhD Student @ Umich | AI/ML Graduate Student Researcher | Software Engineer)`**
+(CSE PhD Student @ Umich | AI/ML Graduate Student Researcher | Software Engineer)`*
 
 I am a passionate, high-achieving Computer Science student in the CSE Doctoral program @ Umich.
 
