@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LuffyAI/LuffyAI/main/umich_luffy_ai.png" width="100%" />
+</p>
+
 # 🏄‍♂️ Larnell Moore
 
 **`Computer Connoisseur (CSE PhD Student @ Umich | AI/ML Graduate Student Researcher | Software Engineer)`**
