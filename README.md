@@ -8,6 +8,10 @@
   An Applied AI/ML researcher building innovative solutions across NLP, IR, and HCI 💻✨
 </h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luffyai&label=Profile%20views&color=ff69b4&style=flat-square" alt="luffyai" style="width: 170px; height: 35px;"/>
+</p>
+
 I am a passionate, high-achieving Computer Science student in the CSE Doctoral program @ Umich.
 
 My primary research interests are Natural Language Processing, Deep Learning, and Machine Learning. I aspire to become a skilled applied AI/ML researcher.
