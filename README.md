@@ -20,16 +20,6 @@
 - 🤖 **Multi-Agent Systems:** Exploring collaborative agent architectures, memory sharing, tool use, and autonomous coordination for complex reasoning tasks.
 - 📊 **Evaluation & Benchmarking:** Developing reliable evaluation pipelines, benchmarks, and metrics for LLM reasoning, retrieval quality, and agent performance.
 
-I am a passionate, high-achieving Computer Science student in the CSE Doctoral program @ Umich.
-
-My primary research interests are Natural Language Processing, Deep Learning, and Machine Learning. I aspire to become a skilled applied AI/ML researcher.
-
-Previously, I received my Bachelor of Science with high honors in Computer Science from the University of Michigan-Dearborn.
-
-I chose this field of study since I have always been mesmerized by the thought of working on cutting-edge technology that could improve our society. My goal is to be at the forefront of innovation.
-
-I strive for greatness, and I am always in pursuit of self-improvement!
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/larnell-m-8a0a04183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/larnell-moore-8a0a04183/" height="30" width="40" /></a>
