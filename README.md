@@ -4,7 +4,9 @@
 
 # 👋 Hey, what's up? I'm Larnell Moore! 😎
 
-(CSE PhD Student @ Umich | AI/ML Graduate Student Researcher | Software Engineer)`*
+<h3 align="center">
+Applied AI/ML researcher building novel solutions in NLP, Information Retrieval, and Human-AI Interaction 💻✨
+</h3>
 
 I am a passionate, high-achieving Computer Science student in the CSE Doctoral program @ Umich.
 
