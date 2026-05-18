@@ -15,6 +15,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 
+   <a href="https://scholar.google.com/citations?user=YOUR_ID">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/>
+  </a>
+
   <a href="https://larnell.dev">
     <img src="https://img.shields.io/badge/Website-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/>
   </a>
