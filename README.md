@@ -9,9 +9,16 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luffyai&label=Profile%20views&color=ff69b4&style=flat-square" alt="luffyai" style="width: 170px; height: 35px;"/>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=luffyai&label=Profile%20views&color=ff69b4&style=flat-square" alt="luffyai"/>
 
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/0j2SrBcInToAAAAd/tenor.gif">
 
 ### Current Research Interests
