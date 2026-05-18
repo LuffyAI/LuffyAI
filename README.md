@@ -5,7 +5,7 @@
 # 👋 Hey, what's up? I'm Larnell Moore! 😎
 
 <h3 align="center">
-  An Applied AI/ML researcher building innovative solutions across NLP, IR, and HCI 💻✨
+  An Applied AI/ML researcher building innovative solutions across NLP, IR, and HCI 💻
 </h3>
 
 <p align="center">
