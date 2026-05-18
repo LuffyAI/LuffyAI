@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=luffyai&label=Profile%20views&color=ff69b4&style=flat-square" alt="luffyai" style="width: 170px; height: 35px;"/>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/0j2SrBcInToAAAAd/tenor.gif">
+<img align="right" alt="Coding" width="200" src="https://c.tenor.com/0j2SrBcInToAAAAd/tenor.gif">
 
 ### Current Research Interests
 - 🧠 **Retrieval-Augmented Generation (RAG):** Designing novel **RAG frameworks & retrieval algorithms** to improve performance on specialized tasks, such as multi-hop reasoning and agent memory.
