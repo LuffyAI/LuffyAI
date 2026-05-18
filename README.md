@@ -5,7 +5,7 @@
 # 👋 Hey, what's up? I'm Larnell Moore! 😎
 
 <h3 align="center">
-Applied AI/ML researcher building novel solutions in NLP, Information Retrieval, and Human-AI Interaction 💻✨
+Applied AI/ML researcher building innovative solutions across NLP, IR, and Human-AI Interaction 💻✨
 </h3>
 
 I am a passionate, high-achieving Computer Science student in the CSE Doctoral program @ Umich.
