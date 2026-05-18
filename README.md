@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/LuffyAI/LuffyAI/main/umich_luffy_ai.png" width="100%" />
 </p>
 
-# 👋 Hey, what's up? My name is Larnell Moore! 😎
+# 👋 Hey, what's up? I'm Larnell Moore! 😎
 
 (CSE PhD Student @ Umich | AI/ML Graduate Student Researcher | Software Engineer)`*
 
