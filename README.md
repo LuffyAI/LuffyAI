@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LuffyAI/LuffyAI/main/umich_luffy_ai.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/LuffyAI/LuffyAI/main/UMich_CANDIDATE_PhD_Luffy_AI.png" width="100%" />
 </p>
 
 # 👋 Hey, what's up? I'm Larnell Moore! 😎
