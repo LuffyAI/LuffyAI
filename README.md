@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/LuffyAI/LuffyAI/main/UMich_CANDIDATE_PhD_Luffy_AI.png" width="100%" />
 </p>
 
-# 👋 Hey, what's up? I'm Larnell Moore! 😎
+# 👋 Hey, what's up? I'm Larnell! 😎
 
 <h3 align="center">
   An Applied AI/ML Researcher building innovative solutions across NLP, IR, and HCI 💻
