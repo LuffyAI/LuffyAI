@@ -8,6 +8,8 @@
 </h3>
 
 
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/0j2SrBcInToAAAAd/tenor.gif">
+
 ### Current Research Interests
 - 🧠 **Retrieval-Augmented Generation (RAG):** Designing novel RAG frameworks & retrieval algorithms to improve performance on specialized tasks, such as multi-hop reasoning and agent memory.
 - 🌍 **AI for Education & Social Good:** Building AI systems that improve accessibility, personalized learning, and equitable access to knowledge.
