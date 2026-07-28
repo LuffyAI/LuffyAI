@@ -7,7 +7,12 @@
   An Applied AI/ML Researcher building innovative solutions across NLP, IR, and HCI 💻
 </h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=luffyai&label=Profile%20views&color=ff69b4&style=flat-square" alt="luffyai"/> <a href="https://www.linkedin.com/in/larnell-m-8a0a04183/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://scholar.google.com/citations?user=bDP9hvQAAAAJ&hl=en&oi=sra"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a> <a href="https://larnell.dev"><img src="https://img.shields.io/badge/Website-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a></p>
+<p align="center">
+  <img src="https://wsrv.nl/?url=komarev.com%2Fghpvc%2F%3Fusername%3Dluffyai%26label%3DProfile%2Bviews%26color%3Dff69b4%26style%3Dflat-square&output=png" alt="Profile views" height="20">
+  <a href="https://www.linkedin.com/in/larnell-m-8a0a04183/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.png?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"></a>
+  <a href="https://scholar.google.com/citations?user=bDP9hvQAAAAJ&hl=en&oi=sra"><img src="https://img.shields.io/badge/Google_Scholar-4285F4.png?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" height="20"></a>
+  <a href="https://larnell.dev"><img src="https://img.shields.io/badge/Website-0A66C2.png?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" height="20"></a>
+</p>
 
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/0j2SrBcInToAAAAd/tenor.gif">
 
